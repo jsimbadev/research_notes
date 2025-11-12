@@ -1,0 +1,17 @@
+An Adaptive Metropolis Algorithm Haario et al. 2001
+
+Robust Adaptive Metropolis Algorithm with Coerced Acceptance Rate Vihola et al
+2011
+
+Efficient Learning of Generative Models via Finite-Difference Score Matching
+Pang et al 2020
+
+Parallelizing MCMC Sampling via Space Partitioning Hafych et al 2020
+
+IAN: Iterated Adaptive Neighborhoods for manifold learning and dimensionality
+estimation Dyballa et al 2022
+
+Cover Trees for Nearest Neighborhoods Beygelzimer et al 2006
+
+Whitening Sentence Reprsentations for Better Semantics and Faster Retrieval Su
+et al 2021
